@@ -1,6 +1,6 @@
 #program
 ![program](program.png)
-#sample op
-![sample op](sampleop.png)
+#sampleop
+![sampleop](sampleop.png)
 #output
 ![output](output.png)
